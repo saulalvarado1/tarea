@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmAlumno.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmCargo.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmClase.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmCurso.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmDetalleClase.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmDetalleMatricula.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmDocente.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmEmpleado.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmMatricula.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNAlumno.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNClase.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaEntidad/clsEMatricula.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaEntidad/clsECargo.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaEntidad/clsEClase.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaConexion/clsConexion.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmLogin.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaInterface/clsIAlumno.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNDocente.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNDetalleClase.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNDetalleMatricula.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNEmpleado.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaInterface/clsIDocente.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaInterface/clsICargo.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaInterface/clsIEmpleado.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaPresentacion/frmBotones.java</file>
+            <file>file:/C:/Users/Usuario/Downloads/CODIGO-PROGRA-ELARD-main/CODIGO-PROGRA-ELARD-main/src/CapaNegocio/clsNCurso.java</file>
+        </group>
+    </open-files>
+</project-private>
